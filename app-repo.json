@@ -9,7 +9,7 @@
       "bundleIdentifier": "com.facebook.Messenger.flow",
       "developerName": "Meta Platforms, Inc.",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/1024px-Facebook_Messenger_logo_2020.svg.png",
-      "localizedDescription": "An enhanced version of Messenger, integrated with the Flow tweak for additional features and customization options. Enjoy a cleaner interface and more control over your messaging experience.",
+      "localizedDescription": "Một phiên bản nâng cao của Messenger, được tích hợp tweak Flow để có thêm các tính năng và tùy chọn tùy chỉnh. Tận hưởng giao diện sạch sẽ hơn và kiểm soát trải nghiệm nhắn tin của bạn tốt hơn.",
       "subtitle": "Enhanced Messenger with Flow.",
       "tintColor": "0078FF",
       "screenshotURLs": [
@@ -34,7 +34,7 @@
       "bundleIdentifier": "com.facebook.Facebook.glow",
       "developerName": "Meta Platforms, Inc.",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/1024px-2023_Facebook_icon.svg.png",
-      "localizedDescription": "Experience Facebook like never before with Glow. This version includes various enhancements to improve the user interface and add new functionalities for a better social networking experience.",
+      "localizedDescription": "Trải nghiệm Facebook chưa từng có với Glow. Phiên bản này bao gồm nhiều cải tiến khác nhau để cải thiện giao diện người dùng và bổ sung các chức năng mới cho trải nghiệm mạng xã hội tốt hơn.",
       "subtitle": "Enhanced Facebook with Glow.",
       "tintColor": "1877F2",
       "screenshotURLs": [
@@ -59,7 +59,7 @@
       "bundleIdentifier": "com.google.ios.youtube.uyouenhanced",
       "developerName": "Google LLC",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/1024px-YouTube_social_white_square_%282017%29.svg.png",
-      "localizedDescription": "uYouEnhanced offers the best YouTube experience with features like ad-blocking, background playback, picture-in-picture (PiP), and the ability to download videos and audio for offline access.",
+      "localizedDescription": "uYouEnhanced mang đến trải nghiệm YouTube tốt nhất với các tính năng như chặn quảng cáo, phát trong nền, hình trong hình (PiP) và khả năng tải xuống video và âm thanh để truy cập ngoại tuyến.",
       "subtitle": "The ultimate YouTube experience.",
       "tintColor": "FF0000",
       "screenshotURLs": [
@@ -84,7 +84,7 @@
       "bundleIdentifier": "com.spotify.client.enhanced",
       "developerName": "Spotify AB",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png",
-      "localizedDescription": "Unlock the full potential of Spotify. This enhanced version, powered by EeveeSpotify, provides premium features, allowing for an uninterrupted and high-quality music streaming experience.",
+      "localizedDescription": "Khai phá toàn bộ tiềm năng của Spotify. Phiên bản nâng cao này, được cung cấp bởi EeveeSpotify, cung cấp các tính năng cao cấp, cho phép trải nghiệm nghe nhạc không bị gián đoạn và chất lượng cao.",
       "subtitle": "Premium music experience with EeveeSpotify.",
       "tintColor": "1DB954",
       "screenshotURLs": [
@@ -109,7 +109,7 @@
       "bundleIdentifier": "com.zhiliaoapp.musically.bhtiktok",
       "developerName": "TikTok Pte. Ltd.",
       "iconURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/1024px-TikTok_logo.svg.png",
-      "localizedDescription": "BHTikTok++ enhances your TikTok experience by providing extra features such as downloading videos without watermarks, an improved user interface, and other quality-of-life improvements.",
+      "localizedDescription": "BHTikTok++ nâng cao trải nghiệm TikTok của bạn bằng cách cung cấp các tính năng bổ sung như tải xuống video không có hình mờ, giao diện người dùng được cải thiện và các cải tiến chất lượng cuộc sống khác.",
       "subtitle": "TikTok with extra features.",
       "tintColor": "000000",
       "screenshotURLs": [
@@ -123,13 +123,6 @@
           "size": 415000000,
           "downloadURL": "https://github.com/JohnnyPh/TikTokPlusPlus/releases/download/bhtiktok-v1.9.3-40.7.0/BHTikTok++_v1.9.3_TikTok_40.7.0.ipa",
           "localizedDescription": "Phiên bản mới nhất với các tính năng của BHTikTok++."
-        },
-        {
-          "version": "1.9.3-38.7.0",
-          "date": "2025-07-18T12:00:00Z",
-          "size": 400000000,
-          "downloadURL": "https://github.com/JohnnyPh/TikTokPlusPlus/releases/download/bhtiktok-v1.9.3-38.7.0/Tiktok38.7.0BHTTPP1.9.3Moe.ipa",
-          "localizedDescription": "Lưu ý: Cài đặt phiên bản này để đăng nhập trước, sau đó mới cập nhật lên phiên bản mới nhất."
         }
       ],
       "version": "1.9.3-40.7.0",
@@ -138,11 +131,37 @@
       "downloadURL": "https://github.com/JohnnyPh/TikTokPlusPlus/releases/download/bhtiktok-v1.9.3-40.7.0/BHTikTok++_v1.9.3_TikTok_40.7.0.ipa"
     },
     {
+      "name": "BHTikTok++ (Login)",
+      "bundleIdentifier": "com.zhiliaoapp.musically.bhtiktok.login",
+      "developerName": "TikTok Pte. Ltd.",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/1024px-TikTok_logo.svg.png",
+      "localizedDescription": "Đây là phiên bản cũ hơn dùng để đăng nhập. Vui lòng cài đặt và đăng nhập bằng phiên bản này trước, sau đó cài đặt phiên bản BHTikTok++ mới nhất.",
+      "subtitle": "Login version for TikTok.",
+      "tintColor": "000000",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/b9/91/9ab991f8-80e0-2527-e43f-a2e6378e9f2a/75681c2f-4b0a-4933-9d9b-02c3008062a4_2-Girl-iPhone-15-Pro.png/643x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/2a/a8/c72aa8f0-c5a4-0498-d14f-b6a95f87b8b4/34947c61-460d-4034-9273-90d575c3d9a5_3-Search-iPhone-15-Pro.png/643x0w.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.9.3-38.7.0",
+          "date": "2025-07-18T12:00:00Z",
+          "size": 400000000,
+          "downloadURL": "https://github.com/JohnnyPh/TikTokPlusPlus/releases/download/bhtiktok-v1.9.3-38.7.0/Tiktok38.7.0BHTTPP1.9.3Moe.ipa",
+          "localizedDescription": "Lưu ý: Cài đặt phiên bản này để đăng nhập trước, sau đó mới cập nhật lên phiên bản mới nhất."
+        }
+      ],
+      "version": "1.9.3-38.7.0",
+      "versionDate": "2025-07-18T12:00:00Z",
+      "size": 400000000,
+      "downloadURL": "https://github.com/JohnnyPh/TikTokPlusPlus/releases/download/bhtiktok-v1.9.3-38.7.0/Tiktok38.7.0BHTTPP1.9.3Moe.ipa"
+    },
+    {
       "name": "SCInsta",
       "bundleIdentifier": "com.burbn.instagram.scinsta",
       "developerName": "Instagram, Inc.",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png",
-      "localizedDescription": "SCInsta brings a wealth of new features to Instagram, including the ability to download photos, videos, and stories, view profiles anonymously, and much more, all integrated seamlessly into the native app.",
+      "localizedDescription": "SCInsta mang đến vô số tính năng mới cho Instagram, bao gồm khả năng tải xuống ảnh, video và tin, xem hồ sơ ẩn danh và nhiều hơn nữa, tất cả đều được tích hợp liền mạch vào ứng dụng gốc.",
       "subtitle": "The definitive Instagram tweak.",
       "tintColor": "C13584",
       "screenshotURLs": [
