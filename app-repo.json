@@ -1,58 +1,158 @@
 {
-  "name": "Feather Repository",
-  "identifier": "kh.crysalis.feather-repo",
-  "iconURL": "https://github.com/khcrysalis/Feather/blob/v1.x/iOS/Resources/Icons/Main/Mac@3x.png?raw=true",
-  "website": "https://github.com/khcrysalis/Feather",
+  "name": "Johnny's Enhanced Apps",
+  "identifier": "com.johnnyph.enhanced-apps",
+  "iconURL": "https://i.imgur.com/L8422hN.png",
+  "website": "https://github.com/JohnnyPh",
   "apps": [
     {
-      "name": "Feather",
-      "bundleIdentifier": "thewonderofyou.Feather",
-      "developerName": "Samara",
-      "iconURL": "https://github.com/khcrysalis/Feather/blob/v1.x/iOS/Resources/Icons/Main/Mac@3x.png?raw=true",
-      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
-      "subtitle": "On-device signing application",
-      "tintColor": "848ef9",
+      "name": "Flow for Messenger",
+      "bundleIdentifier": "com.facebook.Messenger.flow",
+      "developerName": "Meta Platforms, Inc.",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/1024px-Facebook_Messenger_logo_2020.svg.png",
+      "localizedDescription": "An enhanced version of Messenger, integrated with the Flow tweak for additional features and customization options. Enjoy a cleaner interface and more control over your messaging experience.",
+      "subtitle": "Enhanced Messenger with Flow.",
+      "tintColor": "0078FF",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/59/70/9c5970c2-936c-06f1-359f-422a526553f1/App-EN-2-0-0-85-220-1.png/643x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/61/80/f4618087-219d-2cca-6911-3d5f2a2408cf/App-EN-2-1-0-85-220-1.png/643x0w.jpg"
+      ],
       "versions": [
         {
-          "version": "2.2.2",
-          "date": "2025-06-29T21:36:24Z",
-          "size": 12598584,
-          "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.2.2/Feather.ipa"
+          "version": "1.0",
+          "date": "2025-07-19T12:04:24Z",
+          "size": 285000000,
+          "downloadURL": "https://github.com/JohnnyPh/Flow/releases/download/flow-mess-v1.0/Flow_Mess_v1.0.ipa"
         }
       ],
-      "appPermissions": {},
-      "screenshotURLs": [
-        "https://github.com/khcrysalis/Feather/blob/v1/Images/Library.png?raw=true",
-        "https://github.com/khcrysalis/Feather/blob/v1/Images/Repos.png?raw=true",
-        "https://github.com/khcrysalis/Feather/blob/v1/Images/Sign.png?raw=true",
-        "https://github.com/khcrysalis/Feather/blob/v1/Images/Store.png?raw=true"
-      ],
-      "version": "2.2.2",
-      "versionDate": "2025-06-29T21:36:24Z",
-      "size": 12598584,
-      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.2.2/Feather.ipa"
-    }
-  ],
-  "news": [
-    {
-      "title": "Donate",
-      "identifier": "feather-donate",
-      "caption": "Feather is a free project and is not made possible without my sponsors! Feel free to donate, it helps keep me motivated in making new updates for this app, and thank you everyone.",
-      "tintColor": "848ef9",
-      "imageURL": "https://github.com/khcrysalis/Feather/blob/v1.x/Images/donate.png?raw=true",
-      "date": "2025-02-04",
-      "url": "https://github.com/sponsors/khcrysalis",
-      "notify": false
+      "version": "1.0",
+      "versionDate": "2025-07-19T12:04:24Z",
+      "size": 285000000,
+      "downloadURL": "https://github.com/JohnnyPh/Flow/releases/download/flow-mess-v1.0/Flow_Mess_v1.0.ipa"
     },
     {
-      "title": "About Feather",
-      "identifier": "feather-about",
-      "caption": "Feather allows you to use an Apple Developer Account to sign and install applications on device without needing a computer on stock iOS versions, while allowing easy management with its applications.\n\nDue to limitations, it's hard to tell if the application is actually installed, so you will need to keep track of whats on your device. This is an entirely stock application and uses built-in features to be able to do this!",
-      "tintColor": "8A28F7",
-      "imageURL": "https://media.idownloadblog.com/wp-content/uploads/2024/08/Feather-on-device-signing-UI-app.jpg",
-      "url": "https://github.com/khcrysalis/feather",
-      "date": "2025-02-03",
-      "notify": true
+      "name": "Glow for Facebook",
+      "bundleIdentifier": "com.facebook.Facebook.glow",
+      "developerName": "Meta Platforms, Inc.",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/1024px-2023_Facebook_icon.svg.png",
+      "localizedDescription": "Experience Facebook like never before with Glow. This version includes various enhancements to improve the user interface and add new functionalities for a better social networking experience.",
+      "subtitle": "Enhanced Facebook with Glow.",
+      "tintColor": "1877F2",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/6d/82/3c6d8225-c671-51c9-52e3-6e414f24c36c/ea219356-3430-41a7-b130-999120e12c13_1-2-0-85-220-0.png/643x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/75/1e/80751ed1-8883-0975-4e3e-a7455f7d14e1/13f71b9c-5a6b-4560-a24e-2f1688c2b7e1_2-2-0-85-220-0.png/643x0w.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.3.1",
+          "date": "2025-07-19T12:04:24Z",
+          "size": 310000000,
+          "downloadURL": "https://github.com/JohnnyPh/Glow/releases/download/glow-fb-v1.3.1/Glow_FB_v1.3.1.ipa"
+        }
+      ],
+      "version": "1.3.1",
+      "versionDate": "2025-07-19T12:04:24Z",
+      "size": 310000000,
+      "downloadURL": "https://github.com/JohnnyPh/Glow/releases/download/glow-fb-v1.3.1/Glow_FB_v1.3.1.ipa"
+    },
+    {
+      "name": "uYouEnhanced",
+      "bundleIdentifier": "com.google.ios.youtube.uyouenhanced",
+      "developerName": "Google LLC",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/1024px-YouTube_social_white_square_%282017%29.svg.png",
+      "localizedDescription": "uYouEnhanced offers the best YouTube experience with features like ad-blocking, background playback, picture-in-picture (PiP), and the ability to download videos and audio for offline access.",
+      "subtitle": "The ultimate YouTube experience.",
+      "tintColor": "FF0000",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/09/9f/3b099f6b-1518-a621-75f0-6226e7a2b8e3/e635be29-a178-4334-87dc-f269a8385031_1_2_1_iPad_Pro_3rd_Gen_U002812.9-inch_U0029.png/643x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/99/33/91993358-13b3-89a1-8777-66e693153578/9339d67b-1172-46a2-9383-a4a8c2534f3b_2_2_2_iPad_Pro_3rd_Gen_U002812.9-inch_U0029.png/643x0w.jpg"
+      ],
+      "versions": [
+        {
+          "version": "20.28.2-3.0.4",
+          "date": "2025-07-19T12:04:24Z",
+          "size": 185000000,
+          "downloadURL": "https://github.com/JohnnyPh/uYouEnhanced/releases/download/v20.28.2-3.0.4-(6)/uYouEnhanced_20.28.2-3.0.4.ipa"
+        }
+      ],
+      "version": "20.28.2-3.0.4",
+      "versionDate": "2025-07-19T12:04:24Z",
+      "size": 185000000,
+      "downloadURL": "https://github.com/JohnnyPh/uYouEnhanced/releases/download/v20.28.2-3.0.4-(6)/uYouEnhanced_20.28.2-3.0.4.ipa"
+    },
+    {
+      "name": "Spotify Enhanced",
+      "bundleIdentifier": "com.spotify.client.enhanced",
+      "developerName": "Spotify AB",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png",
+      "localizedDescription": "Unlock the full potential of Spotify. This enhanced version, powered by EeveeSpotify, provides premium features, allowing for an uninterrupted and high-quality music streaming experience.",
+      "subtitle": "Premium music experience with EeveeSpotify.",
+      "tintColor": "1DB954",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/b0/20/6eb02008-a57f-1322-a982-34746a5a415a/70f1a30a-161b-419b-a53c-1b3d0d00f57c_5.5_-_1.png/643x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/8f/58/978f58c7-3211-5369-659e-1d898122394c/26f959c1-2363-44d7-8def-23c34f363ca9_5.5_-_2.png/643x0w.jpg"
+      ],
+      "versions": [
+        {
+          "version": "9.0.58-6.0.2",
+          "date": "2025-07-19T12:04:24Z",
+          "size": 150000000,
+          "downloadURL": "https://github.com/JohnnyPh/SpotC-Plus-Plus/releases/download/spotify-enhanced-9.0.58-swift6.0.2/Spotify_Enhanced_9.0.58_EeveeSpotify.6.0.2.ipa"
+        }
+      ],
+      "version": "9.0.58-6.0.2",
+      "versionDate": "2025-07-19T12:04:24Z",
+      "size": 150000000,
+      "downloadURL": "https://github.com/JohnnyPh/SpotC-Plus-Plus/releases/download/spotify-enhanced-9.0.58-swift6.0.2/Spotify_Enhanced_9.0.58_EeveeSpotify.6.0.2.ipa"
+    },
+    {
+      "name": "BHTikTok++",
+      "bundleIdentifier": "com.zhiliaoapp.musically.bhtiktok",
+      "developerName": "TikTok Pte. Ltd.",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/1024px-TikTok_logo.svg.png",
+      "localizedDescription": "BHTikTok++ enhances your TikTok experience by providing extra features such as downloading videos without watermarks, an improved user interface, and other quality-of-life improvements.",
+      "subtitle": "TikTok with extra features.",
+      "tintColor": "000000",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/b9/91/9ab991f8-80e0-2527-e43f-a2e6378e9f2a/75681c2f-4b0a-4933-9d9b-02c3008062a4_2-Girl-iPhone-15-Pro.png/643x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/2a/a8/c72aa8f0-c5a4-0498-d14f-b6a95f87b8b4/34947c61-460d-4034-9273-90d575c3d9a5_3-Search-iPhone-15-Pro.png/643x0w.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.9.3-40.7.0",
+          "date": "2025-07-19T12:04:24Z",
+          "size": 415000000,
+          "downloadURL": "https://github.com/JohnnyPh/TikTokPlusPlus/releases/download/bhtiktok-v1.9.3-40.7.0/BHTikTok++_v1.9.3_TikTok_40.7.0.ipa"
+        }
+      ],
+      "version": "1.9.3-40.7.0",
+      "versionDate": "2025-07-19T12:04:24Z",
+      "size": 415000000,
+      "downloadURL": "https://github.com/JohnnyPh/TikTokPlusPlus/releases/download/bhtiktok-v1.9.3-40.7.0/BHTikTok++_v1.9.3_TikTok_40.7.0.ipa"
+    },
+    {
+      "name": "SCInsta",
+      "bundleIdentifier": "com.burbn.instagram.scinsta",
+      "developerName": "Instagram, Inc.",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png",
+      "localizedDescription": "SCInsta brings a wealth of new features to Instagram, including the ability to download photos, videos, and stories, view profiles anonymously, and much more, all integrated seamlessly into the native app.",
+      "subtitle": "The definitive Instagram tweak.",
+      "tintColor": "C13584",
+      "screenshotURLs": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/23/bd/e523bd86-a83e-a130-ce4a-10113f0a5d43/a2542a42-881c-43a5-b39f-d08323891d4e_1.png/643x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/5f/87/095f8737-29e2-6323-2866-e07e33719056/15d903f7-926f-4740-9a35-3739a34b22c3_2.png/643x0w.jpg"
+      ],
+      "versions": [
+        {
+          "version": "0.7.1-388.0.0",
+          "date": "2025-07-19T12:04:24Z",
+          "size": 260000000,
+          "downloadURL": "https://github.com/JohnnyPh/SCInsta/releases/download/SCInsta-v0.7.1-388.0.0/SCInsta_sideloaded_v0.7.1.ipa"
+        }
+      ],
+      "version": "0.7.1-388.0.0",
+      "versionDate": "2025-07-19T12:04:24Z",
+      "size": 260000000,
+      "downloadURL": "https://github.com/JohnnyPh/SCInsta/releases/download/SCInsta-v0.7.1-388.0.0/SCInsta_sideloaded_v0.7.1.ipa"
     }
   ]
 }
