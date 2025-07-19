@@ -121,7 +121,15 @@
           "version": "1.9.3-40.7.0",
           "date": "2025-07-19T12:04:24Z",
           "size": 415000000,
-          "downloadURL": "https://github.com/JohnnyPh/TikTokPlusPlus/releases/download/bhtiktok-v1.9.3-40.7.0/BHTikTok++_v1.9.3_TikTok_40.7.0.ipa"
+          "downloadURL": "https://github.com/JohnnyPh/TikTokPlusPlus/releases/download/bhtiktok-v1.9.3-40.7.0/BHTikTok++_v1.9.3_TikTok_40.7.0.ipa",
+          "localizedDescription": "Phiên bản mới nhất với các tính năng của BHTikTok++."
+        },
+        {
+          "version": "1.9.3-38.7.0",
+          "date": "2025-07-18T12:00:00Z",
+          "size": 400000000,
+          "downloadURL": "https://github.com/JohnnyPh/TikTokPlusPlus/releases/download/bhtiktok-v1.9.3-38.7.0/Tiktok38.7.0BHTTPP1.9.3Moe.ipa",
+          "localizedDescription": "Lưu ý: Cài đặt phiên bản này để đăng nhập trước, sau đó mới cập nhật lên phiên bản mới nhất."
         }
       ],
       "version": "1.9.3-40.7.0",
