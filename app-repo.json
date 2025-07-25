@@ -12,10 +12,6 @@
       "localizedDescription": "Một phiên bản nâng cao của Messenger, được tích hợp tweak Flow để có thêm các tính năng và tùy chọn tùy chỉnh. Tận hưởng giao diện sạch sẽ hơn và kiểm soát trải nghiệm nhắn tin của bạn tốt hơn.",
       "subtitle": "Enhanced Messenger with Flow.",
       "tintColor": "0078FF",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/59/70/9c5970c2-936c-06f1-359f-422a526553f1/App-EN-2-0-0-85-220-1.png/643x0w.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/61/80/f4618087-219d-2cca-6911-3d5f2a2408cf/App-EN-2-1-0-85-220-1.png/643x0w.jpg"
-      ],
       "versions": [
         {
           "version": "1.0",
@@ -37,10 +33,6 @@
       "localizedDescription": "Trải nghiệm Facebook chưa từng có với Glow. Phiên bản này bao gồm nhiều cải tiến khác nhau để cải thiện giao diện người dùng và bổ sung các chức năng mới cho trải nghiệm mạng xã hội tốt hơn.",
       "subtitle": "Enhanced Facebook with Glow.",
       "tintColor": "1877F2",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/6d/82/3c6d8225-c671-51c9-52e3-6e414f24c36c/ea219356-3430-41a7-b130-999120e12c13_1-2-0-85-220-0.png/643x0w.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/75/1e/80751ed1-8883-0975-4e3e-a7455f7d14e1/13f71b9c-5a6b-4560-a24e-2f1688c2b7e1_2-2-0-85-220-0.png/643x0w.jpg"
-      ],
       "versions": [
         {
           "version": "1.3.1",
@@ -62,10 +54,6 @@
       "localizedDescription": "uYouEnhanced mang đến trải nghiệm YouTube tốt nhất với các tính năng như chặn quảng cáo, phát trong nền, hình trong hình (PiP) và khả năng tải xuống video và âm thanh để truy cập ngoại tuyến.",
       "subtitle": "The ultimate YouTube experience.",
       "tintColor": "FF0000",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/09/9f/3b099f6b-1518-a621-75f0-6226e7a2b8e3/e635be29-a178-4334-87dc-f269a8385031_1_2_1_iPad_Pro_3rd_Gen_U002812.9-inch_U0029.png/643x0w.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/91/99/33/91993358-13b3-89a1-8777-66e693153578/9339d67b-1172-46a2-9383-a4a8c2534f3b_2_2_2_iPad_Pro_3rd_Gen_U002812.9-inch_U0029.png/643x0w.jpg"
-      ],
       "versions": [
         {
           "version": "20.28.2-3.0.4",
@@ -87,10 +75,6 @@
       "localizedDescription": "Khai phá toàn bộ tiềm năng của Spotify. Phiên bản nâng cao này, được cung cấp bởi EeveeSpotify, cung cấp các tính năng cao cấp, cho phép trải nghiệm nghe nhạc không bị gián đoạn và chất lượng cao.",
       "subtitle": "Premium music experience with EeveeSpotify.",
       "tintColor": "1DB954",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/b0/20/6eb02008-a57f-1322-a982-34746a5a415a/70f1a30a-161b-419b-a53c-1b3d0d00f57c_5.5_-_1.png/643x0w.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/8f/58/978f58c7-3211-5369-659e-1d898122394c/26f959c1-2363-44d7-8def-23c34f363ca9_5.5_-_2.png/643x0w.jpg"
-      ],
       "versions": [
         {
           "version": "9.0.58-6.0.2",
@@ -108,14 +92,10 @@
       "name": "BHTikTok++",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok Pte. Ltd.",
-      "iconURL": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tiktok-white-icon.png",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tiktok_icon.svg/2048px-Tiktok_icon.svg.png",
       "localizedDescription": "BHTikTok++ nâng cao trải nghiệm TikTok của bạn bằng cách cung cấp các tính năng bổ sung như tải xuống video không có hình mờ, giao diện người dùng được cải thiện và các cải tiến chất lượng cuộc sống khác.",
       "subtitle": "TikTok with extra features.",
       "tintColor": "000000",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/b9/91/9ab991f8-80e0-2527-e43f-a2e6378e9f2a/75681c2f-4b0a-4933-9d9b-02c3008062a4_2-Girl-iPhone-15-Pro.png/643x0w.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/2a/a8/c72aa8f0-c5a4-0498-d14f-b6a95f87b8b4/34947c61-460d-4034-9273-90d575c3d9a5_3-Search-iPhone-15-Pro.png/643x0w.jpg"
-      ],
       "versions": [
         {
           "version": "1.9.3-40.7.0",
@@ -145,10 +125,6 @@
       "localizedDescription": "SCInsta mang đến vô số tính năng mới cho Instagram, bao gồm khả năng tải xuống ảnh, video và tin, xem hồ sơ ẩn danh và nhiều hơn nữa, tất cả đều được tích hợp liền mạch vào ứng dụng gốc.",
       "subtitle": "The definitive Instagram tweak.",
       "tintColor": "C13584",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/23/bd/e523bd86-a83e-a130-ce4a-10113f0a5d43/a2542a42-881c-43a5-b39f-d08323891d4e_1.png/643x0w.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/5f/87/095f8737-29e2-6323-2866-e07e33719056/15d903f7-926f-4740-9a35-3739a34b22c3_2.png/643x0w.jpg"
-      ],
       "versions": [
         {
           "version": "0.7.1-388.0.0",
@@ -166,14 +142,10 @@
       "name": "YTMusicUltimate",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Google LLC",
-      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/1024px-Youtube_Music_icon.svg.png",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/2048px-Youtube_Music_icon.svg.png",
       "localizedDescription": "YTMusicUltimate mang đến trải nghiệm YouTube Music nâng cao với các tính năng bổ sung để nghe nhạc không giới hạn.",
       "subtitle": "Enhanced YouTube Music experience.",
       "tintColor": "FF0000",
-      "screenshotURLs": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/8c/b6/438cb627-c715-af65-385c-443317f7704b/96c1e5d2-c48f-47eb-9407-161592d77d73_App-iPad-01-EN.png/643x0w.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/e7/d2/80e7d237-7036-608b-c9a9-8356e9c631a7/81729068-15c8-4795-8854-15f9d14620f1_App-iPad-02-EN.png/643x0w.jpg"
-      ],
       "versions": [
         {
           "version": "2.3.1",
@@ -191,14 +163,10 @@
       "name": "RedditFilter",
       "bundleIdentifier": "com.reddit.Reddit",
       "developerName": "REDDIT, INC.",
-      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Reddit_logo_new.svg/1200px-Reddit_logo_new.svg.png",
+      "iconURL": "https://img.icons8.com/office40/512/reddit.png",
       "localizedDescription": "Một phiên bản Reddit đã được sửa đổi với RedditFilter, giúp lọc bỏ nội dung không mong muốn khỏi nguồn cấp dữ liệu của bạn và cải thiện trải nghiệm duyệt web tổng thể.",
       "subtitle": "Filter out unwanted content from your feed.",
       "tintColor": "FF4500",
-      "screenshotURLs": [
-        "https://i.redd.it/s5gqdabp6x481.png",
-        "https://preview.redd.it/the-official-reddit-app-is-getting-a-bunch-of-new-updates-v0-sf836mk4iuqb1.png?width=1179&format=png&auto=webp&s=5a0b59b12850900363297a7605951f22495b42d5"
-      ],
       "versions": [
         {
           "version": "2025.07.1-1.1.7",
@@ -219,6 +187,35 @@
       "versionDate": "2025-02-27T00:00:00Z",
       "size": 133000000,
       "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2025.07.1-1.1.7/RedditFilter_2025.07.1-1.1.7.ipa"
+    },
+    {
+      "name": "Speedtest Premium",
+      "bundleIdentifier": "com.ookla.speedtest",
+      "developerName": "Ookla",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/48/04/4748049f-e029-a1d1-68a5-e18b86df83b8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "localizedDescription": "Sử dụng Speedtest® để kiểm tra tốc độ kết nối nhanh chóng, dễ dàng chỉ với một lần chạm—chính xác ở mọi nơi nhờ mạng lưới máy chủ toàn cầu khổng lồ của chúng tôi. Phiên bản này mở khóa các tính năng cao cấp.",
+      "subtitle": "Premium speed & VPN test.",
+      "tintColor": "15161A",
+      "versions": [
+        {
+          "version": "6.3.1",
+          "date": "2025-07-25T10:35:00Z",
+          "size": 95000000,
+          "downloadURL": "https://www.dropbox.com/scl/fi/p944pochuv3o03tg164re/Speedtest_6.3.1_Premium_-thisismanpreets_apptesters.org.ipa?rlkey=5gozoohlzjfksdttixihdywso&st=3wkjdp8h&dl=1",
+          "localizedDescription": "Phiên bản mới nhất với các tính năng cao cấp."
+        },
+        {
+          "version": "5.4.0",
+          "date": "2025-07-25T10:30:00Z",
+          "size": 92000000,
+          "downloadURL": "https://www.dropbox.com/scl/fi/eor6z2kcvrh4m4ciok7wb/Speedtest_VPN_Premium_5.4.0.ipa?rlkey=po97rhig1e5hj2bg9gwbroooj&st=mhoj8934&dl=1",
+          "localizedDescription": "Cải tiến và nâng cấp."
+        }
+      ],
+      "version": "6.3.1",
+      "versionDate": "2025-07-25T10:35:00Z",
+      "size": 95000000,
+      "downloadURL": "https://www.dropbox.com/scl/fi/p944pochuv3o03tg164re/Speedtest_6.3.1_Premium_-thisismanpreets_apptesters.org.ipa?rlkey=5gozoohlzjfksdttixihdywso&st=3wkjdp8h&dl=1"
     }
   ]
 }
