@@ -1,12 +1,12 @@
 {
   "name": "Johnny's Enhanced Apps",
   "identifier": "com.johnnyph.enhanced-apps",
-  "iconURL": "https://i.imgur.com/L8422hN.png",
+  "iconURL": "https://i.imgur.com/0vqOMMQ.png",
   "website": "https://github.com/JohnnyPh",
   "apps": [
     {
       "name": "Flow for Messenger",
-      "bundleIdentifier": "com.facebook.Messenger.flow",
+      "bundleIdentifier": "com.facebook.Messenger",
       "developerName": "Meta Platforms, Inc.",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Facebook_Messenger_logo_2020.svg/1024px-Facebook_Messenger_logo_2020.svg.png",
       "localizedDescription": "Một phiên bản nâng cao của Messenger, được tích hợp tweak Flow để có thêm các tính năng và tùy chọn tùy chỉnh. Tận hưởng giao diện sạch sẽ hơn và kiểm soát trải nghiệm nhắn tin của bạn tốt hơn.",
@@ -31,7 +31,7 @@
     },
     {
       "name": "Glow for Facebook",
-      "bundleIdentifier": "com.facebook.Facebook.glow",
+      "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Meta Platforms, Inc.",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/1024px-2023_Facebook_icon.svg.png",
       "localizedDescription": "Trải nghiệm Facebook chưa từng có với Glow. Phiên bản này bao gồm nhiều cải tiến khác nhau để cải thiện giao diện người dùng và bổ sung các chức năng mới cho trải nghiệm mạng xã hội tốt hơn.",
@@ -56,7 +56,7 @@
     },
     {
       "name": "uYouEnhanced",
-      "bundleIdentifier": "com.google.ios.youtube.uyouenhanced",
+      "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google LLC",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/1024px-YouTube_social_white_square_%282017%29.svg.png",
       "localizedDescription": "uYouEnhanced mang đến trải nghiệm YouTube tốt nhất với các tính năng như chặn quảng cáo, phát trong nền, hình trong hình (PiP) và khả năng tải xuống video và âm thanh để truy cập ngoại tuyến.",
@@ -81,7 +81,7 @@
     },
     {
       "name": "Spotify Enhanced",
-      "bundleIdentifier": "com.spotify.client.enhanced",
+      "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify AB",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1024px-Spotify_logo_without_text.svg.png",
       "localizedDescription": "Khai phá toàn bộ tiềm năng của Spotify. Phiên bản nâng cao này, được cung cấp bởi EeveeSpotify, cung cấp các tính năng cao cấp, cho phép trải nghiệm nghe nhạc không bị gián đoạn và chất lượng cao.",
@@ -106,7 +106,7 @@
     },
     {
       "name": "BHTikTok++",
-      "bundleIdentifier": "com.zhiliaoapp.musically.bhtiktok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "TikTok Pte. Ltd.",
       "iconURL": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/1024px-TikTok_logo.svg.png",
       "localizedDescription": "BHTikTok++ nâng cao trải nghiệm TikTok của bạn bằng cách cung cấp các tính năng bổ sung như tải xuống video không có hình mờ, giao diện người dùng được cải thiện và các cải tiến chất lượng cuộc sống khác.",
@@ -139,7 +139,7 @@
     },
     {
       "name": "SCInsta",
-      "bundleIdentifier": "com.burbn.instagram.scinsta",
+      "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram, Inc.",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png",
       "localizedDescription": "SCInsta mang đến vô số tính năng mới cho Instagram, bao gồm khả năng tải xuống ảnh, video và tin, xem hồ sơ ẩn danh và nhiều hơn nữa, tất cả đều được tích hợp liền mạch vào ứng dụng gốc.",
@@ -164,7 +164,7 @@
     },
     {
       "name": "YTMusicUltimate",
-      "bundleIdentifier": "com.google.ios.youtubemusic.ultimate",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "Google LLC",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Youtube_Music_icon.svg/1024px-Youtube_Music_icon.svg.png",
       "localizedDescription": "YTMusicUltimate mang đến trải nghiệm YouTube Music nâng cao với các tính năng bổ sung để nghe nhạc không giới hạn.",
@@ -186,6 +186,39 @@
       "versionDate": "2025-07-19T12:04:24Z",
       "size": 120000000,
       "downloadURL": "https://github.com/JohnnyPh/YTMusicUltimate/releases/download/ytm-ultimate-v2.3.1/YTMusicUltimate_v2.3.1.ipa"
+    },
+    {
+      "name": "RedditFilter",
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "REDDIT, INC.",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Reddit_logo_new.svg/1200px-Reddit_logo_new.svg.png",
+      "localizedDescription": "Một phiên bản Reddit đã được sửa đổi với RedditFilter, giúp lọc bỏ nội dung không mong muốn khỏi nguồn cấp dữ liệu của bạn và cải thiện trải nghiệm duyệt web tổng thể.",
+      "subtitle": "Filter out unwanted content from your feed.",
+      "tintColor": "FF4500",
+      "screenshotURLs": [
+        "https://i.redd.it/s5gqdabp6x481.png",
+        "https://preview.redd.it/the-official-reddit-app-is-getting-a-bunch-of-new-updates-v0-sf836mk4iuqb1.png?width=1179&format=png&auto=webp&s=5a0b59b12850900363297a7605951f22495b42d5"
+      ],
+      "versions": [
+        {
+          "version": "2025.07.1-1.1.7",
+          "date": "2025-02-27T00:00:00Z",
+          "size": 133000000,
+          "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2025.07.1-1.1.7/RedditFilter_2025.07.1-1.1.7.ipa",
+          "localizedDescription": "Phiên bản mới nhất với các bản sửa lỗi và cải tiến bộ lọc."
+        },
+        {
+          "version": "2024.44.2-1.1.6",
+          "date": "2024-11-04T00:00:00Z",
+          "size": 130000000,
+          "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2024.44.2-1.1.6/RedditFilter_2024.44.2-1.1.6.ipa",
+          "localizedDescription": "Phiên bản ổn định cũ hơn."
+        }
+      ],
+      "version": "2025.07.1-1.1.7",
+      "versionDate": "2025-02-27T00:00:00Z",
+      "size": 133000000,
+      "downloadURL": "https://github.com/level3tjg/RedditFilter/releases/download/v2025.07.1-1.1.7/RedditFilter_2025.07.1-1.1.7.ipa"
     }
   ]
 }
