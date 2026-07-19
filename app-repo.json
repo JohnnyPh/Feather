@@ -103,10 +103,10 @@
         {
           "version": "563.0.0",
           "buildVersion": "980285082",
-          "date": "2025-07-19T11:52:51Z",
+          "date": "2026-05-28T05:49:11Z",
           "localizedDescription": "LOGIN STEP: Install this build first and sign in. Then install Glow 570.0.0 over it without deleting the app.",
-          "downloadURL": "https://github.com/JohnnyPh/Glow/releases/download/glow-fb-v1.3.1/Glow_FB_v1.3.1.ipa",
-          "size": 206370231,
+          "downloadURL": "https://github.com/quyleanh/Glow/releases/download/Facebook_v563.0.0_Glow_v1.3.1/Facebook_v563.0.0_Glow_v1.3.1.ipa",
+          "size": 198034890,
           "minOSVersion": "15.1"
         }
       ],
