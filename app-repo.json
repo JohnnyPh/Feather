@@ -144,6 +144,28 @@
       "appPermissions": {}
     },
     {
+      "name": "Swiftgram + TGExtra",
+      "bundleIdentifier": "app.swiftgram.ios",
+      "developerName": "Akentech Ltd & TGExtra Contributors",
+      "subtitle": "Swiftgram 12.8 with TGExtra 1.7.6",
+      "localizedDescription": "Swiftgram is an open-source, privacy-focused Telegram fork with unlimited accounts, account backup, chat filters, translation, transcription, and extensive interface customization. This build injects TGExtra 1.7.6 and includes sideload, notification, and screenshot compatibility fixes.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/c1/c2/b9c1c21b-e8cc-8919-5093-951c5511cb27/Swiftgram-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "2AABEE",
+      "category": "social",
+      "versions": [
+        {
+          "version": "12.8",
+          "buildVersion": "278",
+          "date": "2026-07-19T13:56:43Z",
+          "localizedDescription": "Swiftgram 12.8 build 278 with TGExtra 1.7.6 and bundled sideload compatibility fixes.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/a57jh4iysxdk579hoyqop/Swiftgram_12.8_TGExtra_1.7.6_-ipavault.ipa?rlkey=vg8w7xb7n5m3ig7tqw7fglii3&st=as113bya&dl=1",
+          "size": 81676827,
+          "minOSVersion": "10.0"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
       "name": "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "Spotify & EeveeSpotify Contributors",
