@@ -85,8 +85,8 @@
       "name": "Facebook + Glow",
       "bundleIdentifier": "com.facebook.Facebook",
       "developerName": "Meta & quyleanh",
-      "subtitle": "Facebook enhanced by Glow 1.3.1",
-      "localizedDescription": "Facebook bundled with Glow 1.3.1. Glow adds media downloads, anonymous story viewing, accidental-action confirmations, privacy controls, and additional interface options. Long-press any tab to open Glow settings.",
+      "subtitle": "Facebook enhancer with a two-step login install",
+      "localizedDescription": "Facebook bundled with Glow 1.3.1. IMPORTANT: install version 563.0.0 first and sign in. Without deleting it, install version 570.0.0 over 563.0.0 to preserve the logged-in session. Glow adds media downloads, anonymous story viewing, accidental-action confirmations, privacy controls, and additional interface options. Long-press any tab to open Glow settings.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/7d/9b/f77d9b8f-1ea8-b201-791d-e06014b8b5d1/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "0866FF",
       "category": "social",
@@ -95,9 +95,18 @@
           "version": "570.0.0",
           "buildVersion": "1017898548",
           "date": "2026-07-15T17:54:34Z",
-          "localizedDescription": "Facebook 570.0.0 with Glow 1.3.1.",
+          "localizedDescription": "UPDATE STEP: After installing 563.0.0 and signing in, install this 570.0.0 build over it without deleting the app. This preserves the Facebook session.",
           "downloadURL": "https://github.com/quyleanh/Glow/releases/download/Facebook_v570.0.0_Glow_v1.3.1/Facebook_v570.0.0_Glow_v1.3.1.ipa",
           "size": 204981627,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "563.0.0",
+          "buildVersion": "980285082",
+          "date": "2025-07-19T11:52:51Z",
+          "localizedDescription": "LOGIN STEP: Install this build first and sign in. Then install Glow 570.0.0 over it without deleting the app.",
+          "downloadURL": "https://github.com/JohnnyPh/Glow/releases/download/glow-fb-v1.3.1/Glow_FB_v1.3.1.ipa",
+          "size": 206370231,
           "minOSVersion": "15.1"
         }
       ],
