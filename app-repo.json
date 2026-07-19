@@ -1,58 +1,227 @@
 {
-  "name": "Feather Repository",
-  "identifier": "kh.crysalis.feather-repo",
-  "iconURL": "https://github.com/khcrysalis/Feather/blob/v1.x/iOS/Resources/Icons/Main/Mac@3x.png?raw=true",
-  "website": "https://github.com/khcrysalis/Feather",
+  "name": "Johnny's Feather Repository",
+  "identifier": "com.johnnyph.feather-repo",
+  "subtitle": "Enhanced iOS clients curated for Feather",
+  "description": "A personal Feather source maintained by JohnnyPh for selected enhanced iOS clients. Base apps and injected tweaks remain the work of their respective developers.",
+  "iconURL": "https://raw.githubusercontent.com/JohnnyPh/Feather/main/Feather/Resources/Assets.xcassets/AppIcon.appiconset/feather.png",
+  "website": "https://github.com/JohnnyPh/Feather",
+  "tintColor": "848EF9",
+  "featuredApps": [
+    "com.google.ios.youtube",
+    "com.burbn.instagram",
+    "com.facebook.Facebook",
+    "com.facebook.Messenger",
+    "com.spotify.client"
+  ],
   "apps": [
     {
-      "name": "Feather",
-      "bundleIdentifier": "thewonderofyou.Feather",
-      "developerName": "Samara",
-      "iconURL": "https://github.com/khcrysalis/Feather/blob/v1.x/iOS/Resources/Icons/Main/Mac@3x.png?raw=true",
-      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
-      "subtitle": "On-device signing application",
-      "tintColor": "848ef9",
+      "name": "YouTube + YTLite",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Google & YTLite Contributors",
+      "subtitle": "YouTube with YTLite and playback fixes",
+      "localizedDescription": "YouTube enhanced with YTLite and its bundled tweak set. This test build includes YouFixPlaybackIssues 1.45 for playback errors, plus picture-in-picture, quality controls, interface controls, and other injected enhancements.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/27/c3/d927c357-3219-36a7-9821-316c15cc6b40/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "FF0000",
+      "category": "entertainment",
+      "beta": true,
       "versions": [
         {
-          "version": "2.9.0",
-          "date": "2026-07-05T02:11:53Z",
-          "size": 12598584,
-          "downloadURL": "https://github.com/claration/Feather/releases/download/v2.9.0/Feather.ipa"
+          "version": "21.13.6",
+          "buildVersion": "21.13.6",
+          "date": "2026-07-19",
+          "localizedDescription": "YouTube 21.13.6 with YTLite and the YouFixPlaybackIssues 1.45 test build.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/n3sfi16wa4gmusmpqi9wl/YTLite-YouFixPlaybackIssues-v1.45-test.ipa?rlkey=rr2gav76lfhenmrr7kt1wp1du&st=3opytac7&dl=1",
+          "size": 139427705,
+          "minOSVersion": "16.0"
         }
       ],
-      "appPermissions": {},
-      "screenshotURLs": [
-        "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Library.png?raw=true",
-        "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Repos.png?raw=true",
-        "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Sign.png?raw=true",
-        "https://github.com/khcrysalis/Feather/blob/v1.x/Images/Store.png?raw=true"
-      ],
-      "version": "2.9.0",
-      "versionDate": "2026-07-05T02:11:53Z",
-      "size": 12598584,
-      "downloadURL": "https://github.com/claration/Feather/releases/download/v2.9.0/Feather.ipa"
-    }
-  ],
-  "news": [
-    {
-      "title": "Donate",
-      "identifier": "feather-donate",
-      "caption": "Feather is a free project and is not made possible without my sponsors! Feel free to donate, it helps keep me motivated in making new updates for this app, and thank you everyone.",
-      "tintColor": "848ef9",
-      "imageURL": "https://github.com/khcrysalis/Feather/blob/v1.x/Images/donate.png?raw=true",
-      "date": "2025-02-04",
-      "url": "https://github.com/sponsors/khcrysalis",
-      "notify": false
+      "appPermissions": {}
     },
     {
-      "title": "About Feather",
-      "identifier": "feather-about",
-      "caption": "Feather allows you to use an Apple Developer Account to sign and install applications on device without needing a computer on stock iOS versions, while allowing easy management with its applications.\n\nDue to limitations, it's hard to tell if the application is actually installed, so you will need to keep track of whats on your device. This is an entirely stock application and uses built-in features to be able to do this!",
-      "tintColor": "8A28F7",
-      "imageURL": "https://media.idownloadblog.com/wp-content/uploads/2024/08/Feather-on-device-signing-UI-app.jpg",
-      "url": "https://github.com/khcrysalis/feather",
-      "date": "2025-02-03",
-      "notify": true
+      "name": "Reddit Deluxe",
+      "bundleIdentifier": "com.reddit.Reddit",
+      "developerName": "Reddit & RedditFilter Contributors",
+      "subtitle": "Reddit with a curated tweak collection",
+      "localizedDescription": "A customized Reddit build with RedditFilter, RedditSideloadFix, OLED keyboard support, colored comments, undo-scroll-up behavior, and the other tweaks bundled by the Reddit Deluxe project.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/bd/63/cbbd635f-347f-733f-2842-d7a95ce2ed04/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "FF4500",
+      "category": "social",
+      "versions": [
+        {
+          "version": "2026.26.0",
+          "buildVersion": "633152",
+          "date": "2026-07-16T18:03:21Z",
+          "localizedDescription": "Reddit Deluxe 2026.26.0. Open its tweak settings with the project's three-finger hold gesture.",
+          "downloadURL": "https://github.com/surrel14/RedditFilter/releases/download/v2026.26.0/RedditDeluxe_v2026.26.0.ipa",
+          "size": 141940943,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Instagram + Sparkle",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Instagram & efibalogh",
+      "subtitle": "Instagram enhanced by Sparkle 1.1.0",
+      "localizedDescription": "Instagram bundled with Sparkle 1.1.0. Sparkle adds media downloads, a private on-device gallery, deleted-message recovery, profile analysis, per-account settings, privacy controls, and options to hide ads, Meta AI, and suggested content. Open Sparkle settings by long-pressing the Home tab or the Profile settings button.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/4d/56/fd4d5647-b299-0ca9-67cd-a256af840bc4/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "E1306C",
+      "category": "social",
+      "versions": [
+        {
+          "version": "438.0.0",
+          "buildVersion": "1015949731",
+          "date": "2026-07-19",
+          "localizedDescription": "Instagram 438.0.0 with Sparkle 1.1.0 and its sideload fix.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/ndv2gmf7inktgw3vuxazo/Sparkle_v1.1.0_IG_v438.0.0.ipa?rlkey=yvx4clnhui3i7q54mdqr54z5a&st=z4ft1x1v&dl=1",
+          "size": 317949805,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Facebook + Glow",
+      "bundleIdentifier": "com.facebook.Facebook",
+      "developerName": "Meta & quyleanh",
+      "subtitle": "Facebook enhanced by Glow 1.3.1",
+      "localizedDescription": "Facebook bundled with Glow 1.3.1. Glow adds media downloads, anonymous story viewing, accidental-action confirmations, privacy controls, and additional interface options. Long-press any tab to open Glow settings.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/7d/9b/f77d9b8f-1ea8-b201-791d-e06014b8b5d1/Icon-Production-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "0866FF",
+      "category": "social",
+      "versions": [
+        {
+          "version": "570.0.0",
+          "buildVersion": "1017898548",
+          "date": "2026-07-15T17:54:34Z",
+          "localizedDescription": "Facebook 570.0.0 with Glow 1.3.1.",
+          "downloadURL": "https://github.com/quyleanh/Glow/releases/download/Facebook_v570.0.0_Glow_v1.3.1/Facebook_v570.0.0_Glow_v1.3.1.ipa",
+          "size": 204981627,
+          "minOSVersion": "15.1"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Messenger + Flow",
+      "bundleIdentifier": "com.facebook.Messenger",
+      "developerName": "Meta & Flow Contributors",
+      "subtitle": "Messenger enhancer with a two-step login install",
+      "localizedDescription": "Messenger bundled with Flow 1.0. IMPORTANT: install version 523.0.0 first and sign in. Without deleting it, install version 570.0.0 over 523.0.0 to preserve the logged-in session. Flow removes ads and selected clutter, adds privacy controls, supports story downloads, and adds call confirmation. If Feather cannot apply 570.0.0, the Flow release notes suggest trying LCSign.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/86/a8/8586a8e9-16da-41f4-1fe0-bf376b4261ed/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "0A7CFF",
+      "category": "social",
+      "versions": [
+        {
+          "version": "570.0.0",
+          "buildVersion": "1017680599",
+          "date": "2026-07-14T10:13:20Z",
+          "localizedDescription": "UPDATE STEP: After installing 523.0.0 and signing in, install this 570.0.0 build over it without deleting the app. This preserves the Messenger session.",
+          "downloadURL": "https://github.com/jaydenjcpy/Flow/releases/download/flow-fbms-v1.0-5/FBMS_v570.0.0_Flow_v1.0.ipa",
+          "size": 92429935,
+          "minOSVersion": "15.1"
+        },
+        {
+          "version": "523.0.0",
+          "buildVersion": "786592955",
+          "date": "2026-07-14T10:13:20Z",
+          "localizedDescription": "LOGIN STEP: Install this build first and sign in. Then install Flow 570.0.0 over it without deleting the app.",
+          "downloadURL": "https://github.com/jaydenjcpy/Flow/releases/download/flow-fbms-v1.0-5/Facebook.Messenger.Flow.523.0.0.ipa",
+          "size": 63284198,
+          "minOSVersion": "15.1"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "EeveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Spotify & EeveeSpotify Contributors",
+      "subtitle": "Spotify enhanced by EeveeSpotify Reincarnated",
+      "localizedDescription": "Spotify bundled with EeveeSpotify Reincarnated 6.6.6. This is the non-patched build supplied for sideloading and includes SpicyLyrics plus the tweak's other playback and interface enhancements.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/04/4e/40044e28-ff9b-e382-fc03-3425835acf16/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "tintColor": "1DB954",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "9.1.62",
+          "buildVersion": "916201600",
+          "date": "2026-07-09T13:03:18Z",
+          "localizedDescription": "Spotify 9.1.62 with EeveeSpotify Reincarnated 6.6.6 (non-patched sideload build).",
+          "downloadURL": "https://github.com/estrogencat/EeveeIPA/releases/download/9.1.62-6.6.6-2026-07-09-13-00-46/EeveeSpotify-9.1.62-ESR-6.6.6.ipa",
+          "size": 122879434,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "TikTok + r3tok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "TikTok & r3tok",
+      "subtitle": "TikTok client with r3tok 1.8",
+      "localizedDescription": "TikTok bundled with the r3tok 1.8 modification and its in-app enhancement settings.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/d1/ea/d0d1eae0-540c-2a47-7977-6edd9f1898e3/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "FE2C55",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "46.0.0",
+          "buildVersion": "460032",
+          "date": "2026-07-19",
+          "localizedDescription": "TikTok 46.0.0 with r3tok 1.8.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/zzrdqs5m0v7v3i43u8wpf/r3tok_1_8.ipa?rlkey=on6iq3gk97lxh8q5pe3r0ak4u&st=fjflxyc1&dl=1",
+          "size": 446854683,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "YTMUltimate+",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "Google & Mark02-2012",
+      "subtitle": "YouTube Music with YTMusicUltimate and extras",
+      "localizedDescription": "YouTube Music bundled with YTMusicUltimate 2.4.1 and YTMUltimate+ 1.0. Included extras add dislike counts, A/B configuration, picture-in-picture, and gesture-based volume boost controls.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/c9/1e/ccc91ed3-00e0-f7e1-0819-9446130656ae/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "tintColor": "FF0000",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "9.28.4",
+          "buildVersion": "9.28.4",
+          "date": "2026-07-14T19:13:30Z",
+          "localizedDescription": "YouTube Music 9.28.4 with YTMusicUltimate 2.4.1 and YTMUltimate+ 1.0.",
+          "downloadURL": "https://github.com/Mark02-2012/YTMUltimatePLUS/releases/download/YTMU%2B_9.28.4_2.4.1_%2853%29/YTMUltimate%2B_2.4.1_9.28.4.ipa",
+          "size": 100984087,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "SoundCloud No Ads",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "developerName": "SoundCloud & SoundCloudPlus Contributors",
+      "subtitle": "SoundCloud with ad-removal enhancements",
+      "localizedDescription": "SoundCloud bundled with SoundCloudPlus and ad-removal enhancements.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9a/1f/c5/9a1fc50e-b9dc-8023-e3f1-09752f022ef9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "tintColor": "FF5500",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "8.69.0",
+          "buildVersion": "1260179",
+          "date": "2026-07-19",
+          "localizedDescription": "SoundCloud 8.69.0 with SoundCloudPlus and no-ads enhancements.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/jprm5awijoxe40x63d2z0/SoundCloud-8.69.0-NoAds.ipa?rlkey=huauislj3gbejieuk1tn8k45m&st=2nho5oy4&dl=1",
+          "size": 121048901,
+          "minOSVersion": "10.0"
+        }
+      ],
+      "appPermissions": {}
     }
-  ]
+  ],
+  "news": []
 }
