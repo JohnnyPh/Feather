@@ -188,21 +188,21 @@
       "appPermissions": {}
     },
     {
-      "name": "TikTok + r3tok",
+      "name": "TikTok + rust",
       "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "TikTok & r3tok",
-      "subtitle": "TikTok client with r3tok 1.8",
-      "localizedDescription": "TikTok bundled with the r3tok 1.8 modification and its in-app enhancement settings.",
+      "developerName": "TikTok & rust",
+      "subtitle": "TikTok client with rust",
+      "localizedDescription": "TikTok bundled with the rust modification and its in-app enhancement settings.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/d1/ea/d0d1eae0-540c-2a47-7977-6edd9f1898e3/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "tintColor": "FE2C55",
       "category": "entertainment",
       "versions": [
         {
-          "version": "46.0.0",
+          "version": "46.7.0",
           "buildVersion": "460032",
-          "date": "2026-07-19",
-          "localizedDescription": "TikTok 46.0.0 with r3tok 1.8.",
-          "downloadURL": "https://www.dropbox.com/scl/fi/zzrdqs5m0v7v3i43u8wpf/r3tok_1_8.ipa?rlkey=on6iq3gk97lxh8q5pe3r0ak4u&st=fjflxyc1&dl=1",
+          "date": "2026-09-20",
+          "localizedDescription": "TikTok 46.7.0 with rust unlocked",
+          "downloadURL": "https://www.dropbox.com/scl/fi/vn2uccav9aerhf1548ujd/TikTok_46.7.0_1788844762.ipa?rlkey=gq0fnzwc0coiz323surozoaxf&st=441f0af0&dl=1",
           "size": 446854683,
           "minOSVersion": "14.0"
         }
