@@ -17,22 +17,22 @@
     {
       "name": "YouTube + YTLite",
       "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Google & YTLite Contributors",
-      "subtitle": "YouTube with YTLite and playback fixes",
-      "localizedDescription": "YouTube enhanced with YTLite and its bundled tweak set. This test build includes YouFixPlaybackIssues 1.45 for playback errors, plus picture-in-picture, quality controls, interface controls, and other injected enhancements.",
+      "developerName": "Google & YTKACE Contributors",
+      "subtitle": "YouTube with YTKACE",
+      "localizedDescription": "YouTube enhanced with YTKACE and its bundled tweak set.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/27/c3/d927c357-3219-36a7-9821-316c15cc6b40/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "tintColor": "FF0000",
       "category": "entertainment",
       "beta": true,
       "versions": [
         {
-          "version": "21.13.6",
-          "buildVersion": "21.13.6",
-          "date": "2026-07-19",
-          "localizedDescription": "YouTube 21.13.6 with YTLite and the YouFixPlaybackIssues 1.45 test build.",
-          "downloadURL": "https://www.dropbox.com/scl/fi/n3sfi16wa4gmusmpqi9wl/YTLite-YouFixPlaybackIssues-v1.45-test.ipa?rlkey=rr2gav76lfhenmrr7kt1wp1du&st=3opytac7&dl=1",
+          "version": "21.37.5",
+          "buildVersion": "21.37.5",
+          "date": "2026-09-21",
+          "localizedDescription": "YouTube 21.37.5 with YTKACE v1.0.0.",
+          "downloadURL": "https://github.com/itzzace/ytkace/releases/download/v1.0.0/YTKACE_1.0.0_YouTube_21.37.5.ipa",
           "size": 139427705,
-          "minOSVersion": "16.0"
+          "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {}
@@ -63,18 +63,18 @@
       "name": "Instagram + Sparkle",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram & efibalogh",
-      "subtitle": "Instagram enhanced by Sparkle 1.1.0",
-      "localizedDescription": "Instagram bundled with Sparkle 1.1.0. Sparkle adds media downloads, a private on-device gallery, deleted-message recovery, profile analysis, per-account settings, privacy controls, and options to hide ads, Meta AI, and suggested content. Open Sparkle settings by long-pressing the Home tab or the Profile settings button.",
+      "subtitle": "Instagram enhanced by Sparkle 1.3.1",
+      "localizedDescription": "Instagram bundled with Sparkle 1.3.1. Sparkle adds media downloads, a private on-device gallery, deleted-message recovery, profile analysis, per-account settings, privacy controls, and options to hide ads, Meta AI, and suggested content. Open Sparkle settings by long-pressing the Home tab or the Profile settings button.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/4d/56/fd4d5647-b299-0ca9-67cd-a256af840bc4/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "E1306C",
       "category": "social",
       "versions": [
         {
-          "version": "438.0.0",
+          "version": "442.0.0",
           "buildVersion": "1015949731",
-          "date": "2026-07-19",
-          "localizedDescription": "Instagram 438.0.0 with Sparkle 1.1.0 and its sideload fix.",
-          "downloadURL": "https://www.dropbox.com/scl/fi/ndv2gmf7inktgw3vuxazo/Sparkle_v1.1.0_IG_v438.0.0.ipa?rlkey=yvx4clnhui3i7q54mdqr54z5a&st=z4ft1x1v&dl=1",
+          "date": "2026-09-21",
+          "localizedDescription": "Instagram 442.0.0 with Sparkle 1.3.1.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/qlqj9242w7l5gvwsvf4wb/Sparkle_v1.2.0_IG_v442.0.0.ipa?rlkey=kaj6tz4f00bjc8vbjyyn92pi1&st=nym23ilj&dl=1",
           "size": 317949805,
           "minOSVersion": "15.0"
         }
