@@ -11,6 +11,7 @@
     "com.burbn.instagram",
     "com.facebook.Facebook",
     "com.facebook.Messenger",
+    "com.atebits.Tweetie2",
     "com.spotify.client"
   ],
   "apps": [
@@ -139,6 +140,29 @@
           "downloadURL": "https://github.com/jaydenjcpy/Flow/releases/download/flow-fbms-v1.0-5/Facebook.Messenger.Flow.523.0.0.ipa",
           "size": 63284198,
           "minOSVersion": "15.1"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "X + NeoFreeBird",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "X Corp. & NeoFreeBird Contributors",
+      "subtitle": "X 12.24.1 enhanced by NeoFreeBird 6.1.0-beta.65",
+      "localizedDescription": "X 12.24.1 bundled with NeoFreeBird 6.1.0-beta.65. NeoFreeBird restores familiar Twitter branding and adds themes, navigation controls, promoted-content filtering, Likes and profile media waterfall views, media download/share tools, compatibility reports, and other customization options. This beta targets X 12.24.1 build 1.",
+      "iconURL": "https://raw.githubusercontent.com/Vicitiniman/NeoFreeBirdReborn/8006bbf6c497f6b8402ecc6c5a6ba1bb8377e542/icon_rounded.png",
+      "tintColor": "1D9BF0",
+      "category": "social",
+      "beta": true,
+      "versions": [
+        {
+          "version": "12.24.1",
+          "buildVersion": "1",
+          "date": "2026-09-30T03:57:38Z",
+          "localizedDescription": "X 12.24.1 build 1 with NeoFreeBird 6.1.0-beta.65 (sideloaded).",
+          "downloadURL": "https://www.dropbox.com/scl/fi/jsj4dbsrvywso3n5o6i9g/NeoFreeBird-sideloaded_6.1.0-beta.65_12.24.1.ipa?rlkey=4onspn6yhjc5tj9y17bva6th5&st=10xmye5j&dl=1",
+          "size": 249086470,
+          "minOSVersion": "15.0"
         }
       ],
       "appPermissions": {}
