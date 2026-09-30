@@ -1,4 +1,4 @@
-{
+ {
   "name": "Johnny's Feather Repository",
   "identifier": "com.johnnyph.feather-repo",
   "subtitle": "Enhanced iOS clients curated for Feather",
@@ -49,11 +49,11 @@
       "category": "social",
       "versions": [
         {
-          "version": "2026.26.0",
-          "buildVersion": "633152",
-          "date": "2026-07-16T18:03:21Z",
-          "localizedDescription": "Reddit Deluxe 2026.26.0. Open its tweak settings with the project's three-finger hold gesture.",
-          "downloadURL": "https://github.com/surrel14/RedditFilter/releases/download/v2026.26.0/RedditDeluxe_v2026.26.0.ipa",
+          "version": "2026.39.0",
+          "buildVersion": "633155",
+          "date": "2026-10-01T18:03:21Z",
+          "localizedDescription": "Reddit Deluxe 2026.39.0. Open its tweak settings with the project's three-finger hold gesture.",
+          "downloadURL": "https://github.com/surrel14/RedditFilter/releases/download/v2026.39.0/RedditDeluxe_v2026.39.0.ipa",
           "size": 141940943,
           "minOSVersion": "16.0"
         }
