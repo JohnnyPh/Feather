@@ -1,4 +1,4 @@
- {
+{
   "name": "Johnny's Feather Repository",
   "identifier": "com.johnnyph.feather-repo",
   "subtitle": "Enhanced iOS clients curated for Feather",
@@ -148,13 +148,21 @@
       "name": "X + NeoFreeBird",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "X Corp. & NeoFreeBird Contributors",
-      "subtitle": "X 12.24.1 enhanced by NeoFreeBird 6.1.0-beta.65",
-      "localizedDescription": "X 12.24.1 bundled with NeoFreeBird 6.1.0-beta.65. NeoFreeBird restores familiar Twitter branding and adds themes, navigation controls, promoted-content filtering, Likes and profile media waterfall views, media download/share tools, compatibility reports, and other customization options. This beta targets X 12.24.1 build 1.",
+      "subtitle": "X 12.33 enhanced by NeoFreeBird 7.2.0",
+      "localizedDescription": "X 12.33 bundled with NeoFreeBird 7.2.0. Includes familiar Twitter styling, customization and filtering, selectable reply sorting, options to hide retweets and quotes from For You, removal of tracking from t.co links, restored Tweet source labels, improved video-ad filtering, and web-based login support. Long-press the bird/X icon on the For You page to open NeoFreeBird settings.",
       "iconURL": "https://raw.githubusercontent.com/Vicitiniman/NeoFreeBirdReborn/8006bbf6c497f6b8402ecc6c5a6ba1bb8377e542/icon_rounded.png",
       "tintColor": "1D9BF0",
       "category": "social",
-      "beta": true,
+      "beta": false,
       "versions": [
+        {
+          "version": "12.33",
+          "date": "2026-10-18",
+          "localizedDescription": "X 12.33 with NeoFreeBird 7.2.0 (sideloaded X-branding IPA). New reply sorting, For You filtering, tracking-link cleanup, restored Tweet source labels, improved ad/webview handling, and fixes for multiple-account crashes.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/088idgs8tjevf5a93bkd9/NeoFreeBird-sideloaded-X_7.2.0_12.33.ipa?rlkey=ds5jzbmp2ncgfs1fsfc1jo1mm&st=73ld7gmt&dl=1",
+          "size": 0,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "12.24.1",
           "buildVersion": "1",
