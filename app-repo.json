@@ -64,19 +64,18 @@
       "name": "Instagram + Sparkle",
       "bundleIdentifier": "com.burbn.instagram",
       "developerName": "Instagram & efibalogh",
-      "subtitle": "Instagram enhanced by Sparkle 1.3.1",
-      "localizedDescription": "Instagram bundled with Sparkle 1.3.1. Sparkle adds media downloads, a private on-device gallery, deleted-message recovery, profile analysis, per-account settings, privacy controls, and options to hide ads, Meta AI, and suggested content. Open Sparkle settings by long-pressing the Home tab or the Profile settings button.",
+      "subtitle": "Instagram enhanced by Sparkle 1.5.1",
+      "localizedDescription": "Instagram bundled with Sparkle 1.5.1. Sparkle adds media downloads, a private on-device gallery, deleted-message recovery, profile analysis, per-account settings, privacy controls, and options to hide ads, Meta AI, and suggested content. Open Sparkle settings by long-pressing the Home tab or the Profile settings button.",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/4d/56/fd4d5647-b299-0ca9-67cd-a256af840bc4/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "tintColor": "E1306C",
       "category": "social",
       "versions": [
         {
-          "version": "442.0.0",
-          "buildVersion": "1015949731",
-          "date": "2026-09-21",
-          "localizedDescription": "Instagram 442.0.0 with Sparkle 1.3.1.",
-          "downloadURL": "https://www.dropbox.com/scl/fi/qlqj9242w7l5gvwsvf4wb/Sparkle_v1.2.0_IG_v442.0.0.ipa?rlkey=kaj6tz4f00bjc8vbjyyn92pi1&st=nym23ilj&dl=1",
-          "size": 317949805,
+          "version": "451.0.0",
+          "date": "2026-10-13T00:21:03Z",
+          "localizedDescription": "Instagram 451.0.0 with Sparkle 1.5.1. Fixes hidden tabs reappearing when swiping between tabs.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/juq644h3jj0b0icx7jfkv/Sparkle_v1.5.1_IG_v451.0.0.ipa?rlkey=zq9587fh77qd907ypfkherrlo&st=1vy62gdt&dl=1",
+          "size": 0,
           "minOSVersion": "15.0"
         }
       ],
@@ -162,7 +161,7 @@
           "downloadURL": "https://www.dropbox.com/scl/fi/088idgs8tjevf5a93bkd9/NeoFreeBird-sideloaded-X_7.2.0_12.33.ipa?rlkey=ds5jzbmp2ncgfs1fsfc1jo1mm&st=73ld7gmt&dl=1",
           "size": 0,
           "minOSVersion": "15.0"
-        },
+        }
       ],
       "appPermissions": {}
     },
